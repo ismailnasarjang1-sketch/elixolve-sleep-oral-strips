@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace elixolve-sleep-oral-strips.vercel.app with your real domain before publishing.
+Sitemap: https://elixolve-sleep-oral-strips.vercel.app/sitemap.xml
